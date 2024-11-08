@@ -16,8 +16,8 @@ import {
 import { motion } from "framer-motion";
 
 export default function ParentDashboard() {
-  const [studentName] = useState("Alex Smith");
-  const [grade] = useState("Grade 10");
+  const [studentName] = useState("Violina Doley");
+  const [grade] = useState("Grade 1");
 
   const recentActivities = [
     { type: "Assignment", subject: "Mathematics", status: "Completed", date: "2024-03-20" },
