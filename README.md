@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### Live Demo - 
+https://kaizen-eta-fawn.vercel.app/
+
+### Presentation - 
+https://docs.google.com/presentation/d/1YB-DLLTU-e8KIZdtTmmQcpHzauEi-xkJ/edit?usp=sharing&ouid=107427138099585618814&rtpof=true&sd=true
+
+### Video - 
+https://drive.google.com/file/d/1MrhilTnrOoL3D3UsEAQzj3-vav7FELjO/view
 
 # Kaizen
 
@@ -67,29 +74,3 @@ Kaizen is a web application designed to help children improve their social skill
     ```bash
     npm start
     ```
-
-## Contributing
-
-We welcome contributions to Kaizen Kid! To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please reach out to us at [your-email@example.com](mailto:your-email@example.com).
-
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
