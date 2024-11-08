@@ -36,13 +36,13 @@ export default function ParentDashboard() {
             </Link>
           </div>
           <div className="flex items-center gap-4">
-            <Button variant="ghost" size="icon">
+            <Button  >
               <Bell className="h-5 w-5" />
             </Button>
-            <Button variant="ghost" size="icon">
+            <Button >
               <Settings className="h-5 w-5" />
             </Button>
-            <Button variant="ghost" className="flex items-center gap-2">
+            <Button  className="flex items-center gap-2">
               <User className="h-5 w-5" />
               <span>Parent Account</span>
             </Button>
@@ -151,7 +151,7 @@ export default function ParentDashboard() {
                 </motion.div>
               ))}
             </div>
-            <Button variant="ghost" className="w-full mt-4">
+            <Button className="w-full mt-4">
               View All Activities
               <ChevronRight className="h-4 w-4 ml-2" />
             </Button>
@@ -183,7 +183,7 @@ export default function ParentDashboard() {
                 <p className="text-sm text-gray-500">April 5-15, 2024</p>
               </motion.div>
             </div>
-            <Button variant="ghost" className="w-full mt-4">
+            <Button  className="w-full mt-4">
               View Calendar
               <ChevronRight className="h-4 w-4 ml-2" />
             </Button>
