@@ -1,3 +1,8 @@
+Team : Async.io
+Team Members : 
+Aakash Mallik & Violina Doley
+
+
 ### Live Demo - 
 https://kaizen-eta-fawn.vercel.app/
 
